@@ -88,7 +88,7 @@ class Investor {
     }
 }
 
-public class _2104373_2b {
+public class _2104212_2b {
     private static Investor I1;
 
     public static void main(String[] args) {
